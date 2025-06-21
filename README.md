@@ -50,8 +50,8 @@
 
 ### 📁 Pinned Projects
 
-[![Smart Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=Yashgupta8&repo=Smart-Attendance-System&theme=radical)](https://github.com/Yashgupta8/Smart-Attendance-System)
-[![Job Alert System](https://github-readme-stats.vercel.app/api/pin/?username=Yashgupta8&repo=Job-Alert-System&theme=radical)](https://github.com/Yashgupta8/Job-Alert-System)
+[![Smart Attendance System](https://github.com/Yashgupta8/localfix)](https://github.com/Yashgupta8/localfix)
+[![Job Alert System](https://github.com/Yashgupta8/localfix)]([https://github.com/Yashgupta8/Job-Alert-System](https://github.com/Yashgupta8/localfix))
 
 ---
 
