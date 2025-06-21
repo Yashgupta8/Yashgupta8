@@ -50,8 +50,9 @@
 
 ### 📁 Pinned Projects
 
-[![Smart Attendance System](https://github.com/Yashgupta8/localfix)](https://github.com/Yashgupta8/localfix)
-[![Job Alert System](https://github.com/Yashgupta8/localfix)]([https://github.com/Yashgupta8/Job-Alert-System](https://github.com/Yashgupta8/localfix))
+- [LocalFix](https://github.com/Yashgupta8/localfix)  
+- [HexaShield](https://github.com/Yashgupta8/HexaShield-Decentralized-Storage-with-built-in-Data-Auditing)
+
 
 ---
 
