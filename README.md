@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/806abce7-2794-4d0a-adc8-50d03c19095a)<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
+<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programmer;C%2B%2B+Enthusiast;Full-Stack+Web+Developer;Lifelong+Learner" alt="Typing SVG" />
