@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 💻 I'm deeply into **C++** and **Data Structures & Algorithms**
-- 🤖 Building smart projects with **Face Recognition**, **MERN stack**, and **Flask**
+- 🤖 Building smart projects with **MERN stack**
 - 🧠 Passionate about problem-solving and system design
 - 🎯 Currently exploring **AI-powered web apps**
 - 🎓 Student at **IIIT Allahabad**
